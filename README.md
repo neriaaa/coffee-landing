@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# ☕ Brew & Bean — Coffee Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Современный адаптивный лендинг кофейни, созданный на React.
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🧠 О проекте
 
-### `npm start`
+Это учебный, но приближенный к реальному коммерческому проект.  
+Цель — прокачка frontend навыков и создание портфолио.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚙️ Технологии
 
-### `npm test`
+- React
+- JavaScript
+- CSS3
+- Flexbox / Grid
+- Intersection Observer API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Функциональность
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🍔 Бургер-меню (mobile navigation)
+- 🌑 Overlay при открытии меню
+- 🌄 Parallax эффект в Hero
+- ✨ Scroll reveal анимации
+- 📦 Stagger animation карточек меню
+- 💅 Hover микро-анимации
+- 📱 Полностью адаптивный дизайн
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📸 Скриншоты
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📂 Структура проекта
+src/
+├── components/
+│ ├── Header
+│ ├── Hero
+│ ├── Menu
+│ ├── Features
+│ ├── Contact
+│ └── Footer
+├── hooks/
+│ └── useScrollReveal
+├── assets/
+├── App.js
+└── App.css
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📌 Планы улучшения
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Добавить backend (заказы кофе)
+- Подключить форму отправки сообщений
+- Добавить dark mode
+- Оптимизация анимаций
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
