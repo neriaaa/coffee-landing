@@ -22,13 +22,13 @@
 
 ## ✨ Функциональность
 
-- 🍔 Бургер-меню (mobile navigation)
-- 🌑 Overlay при открытии меню
-- 🌄 Parallax эффект в Hero
-- ✨ Scroll reveal анимации
-- 📦 Stagger animation карточек меню
-- 💅 Hover микро-анимации
-- 📱 Полностью адаптивный дизайн
+- Бургер-меню (mobile navigation)
+- Overlay при открытии меню
+- Parallax эффект в Hero
+- Scroll reveal анимации
+- Stagger animation карточек меню
+- Hover микро-анимации
+- Полностью адаптивный дизайн
 
 ---
 
